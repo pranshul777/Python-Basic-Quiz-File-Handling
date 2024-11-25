@@ -1,0 +1,20 @@
+What is the capital of France?|Paris|London|Berlin|Madrid|0
+Which is the smallest prime number?|0|1|2|3|2
+What is 2 + 2?|3|4|5|6|1
+What is the boiling point of water?|90°C|100°C|110°C|120°C|1
+Who wrote 'Macbeth'?|Shakespeare|Keats|Wordsworth|Byron|0
+Which planet is closest to the sun?|Venus|Earth|Mercury|Mars|2
+What is the square root of 16?|2|3|4|5|2
+Which gas is essential for human respiration?|Carbon Dioxide|Oxygen|Nitrogen|Hydrogen|1
+What color is the sky on a clear day?|Red|Blue|Green|Yellow|1
+Which is the largest ocean?|Indian|Pacific|Atlantic|Arctic|1
+Who discovered gravity?|Newton|Einstein|Tesla|Galileo|0
+What is the atomic number of Hydrogen?|1|2|3|4|0
+What is the capital of India?|Delhi|Mumbai|Kolkata|Chennai|0
+Which is the longest river?|Amazon|Nile|Ganga|Yangtze|1
+What is the national animal of India?|Tiger|Lion|Elephant|Leopard|0
+Which is the fastest land animal?|Cheetah|Lion|Horse|Deer|0
+What is the primary source of energy on Earth?|Wind|Water|Sun|Coal|2
+Which is the coldest continent?|Asia|Africa|Antarctica|Europe|2
+What is the largest mammal?|Elephant|Blue Whale|Shark|Giraffe|1
+Which is the smallest state in India by area?|Goa|Sikkim|Delhi|Tripura|0
